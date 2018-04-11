@@ -5,5 +5,6 @@
 num = 10
 age = 20
 #我是张三,我修改了一下支付功能
-like=boy
+like=girls
+#我是经理,要喜欢美女
 
